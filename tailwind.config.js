@@ -1,5 +1,6 @@
 module.exports = {
   content: ["./src/index.html"],
+  darkMode: 'class',
   theme: {
     container: {
       center: true,
